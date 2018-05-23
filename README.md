@@ -1,3 +1,9 @@
+
+
+### This code is associated with the paper from Weissman et al., "Minimal-assumption inference from population-genomic data". eLife, 2017. http://dx.doi.org/10.7554/eLife.24836
+
+
+
 MAGIC
 =======
 
